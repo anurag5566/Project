@@ -1,0 +1,7 @@
+{
+  "name": "Hand Gesture Cursor Control",
+  "description": "An application that uses your webcam to track your hand gestures and control a cursor on the screen, inspired by object motion detection concepts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
